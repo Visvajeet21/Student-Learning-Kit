@@ -1,4 +1,4 @@
-DESIGN AND DEVELOPMENT OF A SYSTEM APPLICATION FOR RURAL STUDENT’S EDUCATION
+# DESIGN AND DEVELOPMENT OF A SYSTEM APPLICATION FOR RURAL STUDENT’S EDUCATION
 # Overview
 This project is focused on developing a Student Learning Kit to address the educational needs of rural students. The kit incorporates a Flutter-based application, providing a comprehensive solution for learning and educational resources, all within a single device.
 
