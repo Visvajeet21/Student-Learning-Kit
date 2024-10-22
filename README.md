@@ -12,10 +12,9 @@ This project is focused on developing a Student Learning Kit to address the educ
 1. Flutter: For building a cross-platform mobile application with a responsive and interactive user interface.
 2. Dart: The programming language used within the Flutter framework to develop the application.
 3. Firebase: For backend services, including Firestore for data storage, user authentication, and cloud functionalities.
-4. SQLite: For local database storage, ensuring the app functions offline in areas with limited connectivity.
 
 # Features
-1. Study Materials: Provides access to study materials such as textbooks, notes, and video tutorials.
+1. Study Materials: Provides access to study materials such as textbooks, notes, question papers.
 2. Quizzes and Tests: Allows students to test their knowledge through interactive quizzes and track their progress.
 3. User Profile Management: Each student has a personal profile, tracking their learning progress and quiz results.
 4. Downloadable Content: Learning materials can be downloaded for offline use.
@@ -34,7 +33,8 @@ This project is focused on developing a Student Learning Kit to address the educ
 # Future Enhancements
 1. Multilingual Support: Adding multiple language options to cater to a broader range of students.
 2. Teacher-Student Interaction: A feature for teachers to assign tasks and review student progress.
+3. Implementation of Database: A database to store the assests. 
 
 # Results and Screen Shots
+<img src="[./images/screenshot.png](https://github.com/user-attachments/assets/8c35f266-cd0f-43d1-b81e-5b29231bf0fd)" alt="Project Screenshot" width="400"/>
 
-![image](https://github.com/user-attachments/assets/8c35f266-cd0f-43d1-b81e-5b29231bf0fd)
