@@ -2,7 +2,7 @@
 # Overview
 This project is focused on developing a Student Learning Kit to address the educational needs of rural students. The kit incorporates a Flutter-based application, providing a comprehensive solution for learning and educational resources, all within a single device.
 
-# Key Features:
+# Key Features
 1. Comprehensive Learning Solutions: The application provides a wide range of educational resources for students, including textbooks, quizzes, and interactive content.
 2. Offline Capabilities: Allows students in rural areas with limited or no internet access to continue their learning without disruptions.
 3. User-Friendly Interface: Built using Flutter for a seamless and responsive user experience, suitable for both students and educators.
