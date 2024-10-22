@@ -36,19 +36,19 @@ This project is focused on developing a Student Learning Kit to address the educ
 3. Implementation of Database: A database to store the assests. 
 
 # Results and Screen Shots
-Login Page
+# Login Page
 ![image](https://github.com/user-attachments/assets/e34d2859-0a00-4543-8ae6-7f8ef0e05657)
 
-Home Page
+# Home Page
 ![image](https://github.com/user-attachments/assets/69a4029c-b08f-4cff-9ec0-9e7b7bef822c)
 
-Quiz Page
+# Quiz Page
 ![image](https://github.com/user-attachments/assets/fb43c80c-f83b-4522-90a2-1c64595537d5)
 
-Notes Page
+# Notes Page
 ![image](https://github.com/user-attachments/assets/c0402c49-62f6-4ebc-9ec5-a60a4e0449af)
 
-Final Output On Device
+# Final Output On Device
 ![image](https://github.com/user-attachments/assets/098cf711-7a82-4180-b2aa-a0d0a87cbcc0)
 
 
