@@ -54,3 +54,7 @@ This project is focused on developing a Student Learning Kit to address the educ
 
 
 
+
+# Demo Video
+https://github.com/user-attachments/assets/7a4d510e-9688-4ff4-a104-c4dfd0e451c7
+
