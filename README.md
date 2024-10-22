@@ -40,7 +40,7 @@ This project is focused on developing a Student Learning Kit to address the educ
 ![image](https://github.com/user-attachments/assets/e34d2859-0a00-4543-8ae6-7f8ef0e05657)
 
 # Home Page
-![image](https://github.com/user-attachments/assets/69a4029c-b08f-4cff-9ec0-9e7b7bef822c)
+![image](https://github.com/user-attachments/assets/c06825e6-12d8-4349-9812-aa153fe8d2fc)
 
 # Quiz Page
 ![image](https://github.com/user-attachments/assets/fb43c80c-f83b-4522-90a2-1c64595537d5)
